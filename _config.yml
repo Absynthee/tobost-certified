@@ -1,0 +1,14 @@
+title: Tobost Certified
+description: Tobost Certified Reviews!
+theme: minima
+
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Reviews"
+    url: "/reviews"
+  - title: "About"
+    url: "/about"
+
+    sass:
+  - sass_dir: "assets/css"
